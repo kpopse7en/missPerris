@@ -1,0 +1,8 @@
+
+div img{
+align-content: center;
+background-color: mediumspringgreen;
+width: 700px; height:300px
+}.img1{
+background-image: url("../img/perro.png")
+}
