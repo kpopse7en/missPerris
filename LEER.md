@@ -1,4 +1,4 @@
 # MisPerris
-para trabajar con mis perris
+Para trabajar con mis perris
 
-hagan alguna copia para ir mejorando esto que es casi nada
+Hagan alguna copia para ir mejorando esto que es casi nada
